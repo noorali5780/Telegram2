@@ -1,0 +1,9 @@
+telethon>=1.29.2
+python-dotenv>=1.0.0
+asyncio>=3.4.3
+coloredlogs>=15.0.1
+aiohttp>=3.8.5
+python-socks>=2.3.0
+colorlog>=6.7.0
+tk>=0.1.0
+cryptography>=41.0.0  # For secure session storage

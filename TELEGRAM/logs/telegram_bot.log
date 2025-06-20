@@ -1,0 +1,88 @@
+2025-06-15 22:45:15,794 - __main__ - INFO - Starting Telegram interaction test
+2025-06-15 22:45:15,805 - __main__ - ERROR - Test failed: invalid literal for int() with base 10: 'your_api_id'
+2025-06-15 22:45:15,814 - __main__ - INFO - Test completed
+2025-06-15 23:03:33,996 - __main__ - INFO - Starting Telegram interaction test
+2025-06-15 23:03:34,115 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-15 23:03:37,883 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-15 23:03:40,292 - account_manager - INFO - Client test_session needs authentication
+2025-06-15 23:06:27,603 - telethon.client.users - INFO - Phone migrated to 4
+2025-06-15 23:06:27,603 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-06-15 23:06:27,872 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-06-15 23:06:27,874 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-06-15 23:06:27,875 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-15 23:06:30,806 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-15 23:06:59,076 - account_manager - INFO - Client test_session successfully created and authenticated
+2025-06-15 23:06:59,076 - __main__ - INFO - Successfully created Telegram client
+2025-06-15 23:07:43,682 - group_connector - ERROR - Failed to join group cvvboy2023: name 'JoinChannelRequest' is not defined
+2025-06-15 23:07:43,682 - __main__ - ERROR - Failed to join group
+2025-06-15 23:07:43,683 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-06-15 23:07:43,698 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-06-15 23:07:43,699 - account_manager - INFO - Client test_session disconnected
+2025-06-15 23:07:43,700 - __main__ - INFO - Test completed
+2025-06-15 23:19:21,878 - __main__ - INFO - Starting Telegram interaction test
+2025-06-15 23:19:21,959 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-15 23:19:25,743 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-15 23:19:27,888 - account_manager - INFO - Client test_session needs authentication
+2025-06-15 23:19:57,734 - telethon.client.users - INFO - Phone migrated to 4
+2025-06-15 23:19:57,735 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-06-15 23:19:57,997 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-06-15 23:19:58,000 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-06-15 23:19:58,001 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-15 23:20:00,576 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-15 23:20:25,106 - account_manager - INFO - Client test_session successfully created and authenticated
+2025-06-15 23:20:25,107 - __main__ - INFO - Successfully created Telegram client
+2025-06-15 23:24:13,414 - group_connector - INFO - Successfully joined group: https://t.me/fasfafahjkhj
+2025-06-15 23:24:13,415 - __main__ - INFO - Successfully joined group: https://t.me/fasfafahjkhj
+2025-06-15 23:24:15,425 - group_connector - ERROR - Error fetching members: 'UserStatusOnline' object has no attribute 'was_online'
+2025-06-15 23:24:15,426 - __main__ - INFO - Found 0 members
+2025-06-15 23:24:16,015 - message_engine - INFO - Message sent to user 7552534822
+2025-06-15 23:26:04,025 - __main__ - INFO - Test message sent successfully
+2025-06-15 23:26:04,026 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-06-15 23:26:04,028 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-06-15 23:26:04,036 - account_manager - INFO - Client test_session disconnected
+2025-06-15 23:26:04,037 - __main__ - INFO - Test completed
+2025-06-16 00:24:27,454 - __main__ - INFO - Starting Telegram interaction test
+2025-06-16 00:24:27,459 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-16 00:24:29,937 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-16 00:24:30,984 - account_manager - INFO - Client test_session needs authentication
+2025-06-16 00:24:56,008 - telethon.client.users - INFO - Phone migrated to 4
+2025-06-16 00:24:56,009 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-06-16 00:24:56,278 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-06-16 00:24:56,280 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-06-16 00:24:56,281 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-16 00:24:58,539 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-16 00:27:14,547 - account_manager - INFO - Client test_session successfully created and authenticated
+2025-06-16 00:27:14,548 - __main__ - INFO - Successfully created Telegram client
+2025-06-16 00:27:48,040 - group_connector - INFO - Successfully joined group: https://t.me/fasfafahjkhj
+2025-06-16 00:27:48,041 - __main__ - INFO - Successfully joined group: https://t.me/fasfafahjkhj
+2025-06-16 00:27:56,571 - __main__ - INFO - Found 666 members
+2025-06-16 00:27:57,432 - message_engine - INFO - Message sent to user 7552534822
+2025-06-16 00:28:07,215 - telethon.client.updates - INFO - Got difference for channel 1986227102 updates
+2025-06-16 00:28:36,440 - __main__ - INFO - Test message sent successfully
+2025-06-16 00:28:36,442 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-06-16 00:28:36,451 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-06-16 00:28:36,453 - account_manager - INFO - Client test_session disconnected
+2025-06-16 00:28:36,456 - __main__ - INFO - Test completed
+2025-06-16 01:12:56,733 - database_manager - INFO - Database initialized successfully
+2025-06-16 01:12:56,735 - __main__ - INFO - Starting Telegram interaction test
+2025-06-16 01:12:56,742 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-16 01:12:59,228 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-16 01:13:00,252 - account_manager - INFO - Client test_session needs authentication
+2025-06-16 01:13:48,640 - telethon.client.users - INFO - Phone migrated to 4
+2025-06-16 01:13:48,641 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-06-16 01:13:48,895 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-06-16 01:13:48,902 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-06-16 01:13:48,903 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-16 01:13:51,146 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-16 01:14:21,928 - account_manager - INFO - Client test_session successfully created and authenticated
+2025-06-16 01:14:21,928 - __main__ - INFO - Successfully created Telegram client
+2025-06-16 01:16:06,003 - group_connector - INFO - Successfully joined group: https://t.me/Webshell168
+2025-06-16 01:16:06,004 - __main__ - INFO - Successfully joined group: https://t.me/Webshell168
+2025-06-16 01:16:08,328 - __main__ - INFO - Found 3 members
+2025-06-16 01:16:08,964 - message_engine - INFO - Message sent to user 7552534822
+2025-06-16 01:16:36,445 - telethon.client.updates - INFO - Got difference for channel 1886358337 updates
+2025-06-16 01:16:41,971 - __main__ - INFO - Test message sent successfully
+2025-06-16 01:16:41,989 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-06-16 01:16:41,993 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-06-16 01:16:41,995 - account_manager - INFO - Client test_session disconnected
+2025-06-16 01:16:41,995 - __main__ - INFO - Test completed

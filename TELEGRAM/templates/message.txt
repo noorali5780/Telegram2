@@ -1,0 +1,6 @@
+Hi {first_name},
+
+I noticed your profile in our group and thought you might be interested in connecting.
+
+Best regards,
+{sender_name}

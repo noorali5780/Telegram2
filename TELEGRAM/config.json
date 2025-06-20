@@ -1,0 +1,27 @@
+{
+    "accounts": {
+        "default": {
+            "api_id": "your_api_id",
+            "api_hash": "your_api_hash",
+            "phone": "your_phone_number"
+        }
+    },
+    "interaction_settings": {
+        "min_delay": 30,
+        "max_delay": 120,
+        "batch_size": 50,
+        "max_retries": 3
+    },
+    "filters": {
+        "filter_inactive": true,
+        "min_activity_days": 30,
+        "has_username": true
+    },
+    "proxy_settings": {
+        "enabled": false,
+        "host": "",
+        "port": "",
+        "username": "",
+        "password": ""
+    }
+}
